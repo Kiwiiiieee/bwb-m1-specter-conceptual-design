@@ -21,7 +21,7 @@ First-order conceptual design following **Raymer's semi-empirical conceptual des
 
 ## Results
 | Parameter | Computed | Requirement | Status |
-|---|---|---|---|
+|:--|:--|:--|:--|
 | Mission range (internal fuel) | 1,000 nm | 1,000 nm | Met |
 | Maximum speed (level flight) | Below M 2.0 (wave-drag failure) | M 2.0 | **Not met** |
 | Sustained turn rate (M 0.9, 6,100 m) | 14.5 deg/s | 14 deg/s | Met |
@@ -76,7 +76,7 @@ Figures are taken from the report (figure numbers and captions as in the report)
 
 ## Repository contents
 | Path | Content | Opens with |
-|---|---|---|
+|:--|:--|:--|
 | `report/BWB_M1_Specter_Report.pdf` | Conceptual design report (20 pages) | Any PDF reader |
 | `slides/AE405_Slides.pdf` | Presentation slides | Any PDF reader |
 | `tools/cad/STL_File_Sergio_Jorge_Koutar_3dprint.STL` | STL model prepared for 3D printing | GitHub's STL viewer, SolidWorks, Blender, any slicer (e.g. Cura, PrusaSlicer) |
@@ -101,5 +101,4 @@ My sections:
 ## References
 Main references cited in the report: Raymer, *Aircraft Design: A Conceptual Approach*, 6th ed. (AIAA, 2018); Liebeck, "Design of the blended wing body subsonic transport", *Journal of Aircraft* 41(1), 2004; Boeing / NASA Dryden, X-48B/C BWB demonstrator program. The full list is in the report.
 
----
 Kaoutar Ammara · Aerospace Engineer · [GitHub](https://github.com/Kiwiiiieee) · [LinkedIn](https://linkedin.com/in/kaoutar-ammara)
